@@ -5,7 +5,7 @@ import java.util.Objects;
 
 public class Department implements Serializable {
 
-    private int id;
+    private Integer id;
     private String name;
 
     public Department(){
